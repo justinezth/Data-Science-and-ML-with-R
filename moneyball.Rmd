@@ -27,6 +27,7 @@ head(batting$X2B) #doubles
 
 ## Feature Engineering
 Add three more statistics:
+
 - Batting Average
 - On Base Percentage
 - Slugging Percentage
@@ -75,6 +76,7 @@ head(lost_players)
 
 ## Replacement Players
 Find Replacement Players with 3 contraints:
+
 - The total combined salary of the three players can not exceed 15 million dollars.
 - Their combined number of At Bats (AB) needs to be equal to or greater than the lost players.
 - Their mean OBP had to equal to or greater than the mean OBP of the lost players
