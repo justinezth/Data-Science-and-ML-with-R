@@ -12,6 +12,7 @@ Work with data from The Lahman Baseball Database, trying to find replacement pla
 
 ## Data Collection
 The data I'm using is from [Sean Lahaman's Website](http://www.seanlahman.com/baseball-archive/statistics/).  batting.csv is a file containing batting data for players in the MLB, and salary.csv is a file containing players' salary data.
+![Batting Data Head](https://github.com/justinezth/Moneyball-Data-Analysis/blob/master/battinghead.png)
 
 
 ## Feature Engineering
