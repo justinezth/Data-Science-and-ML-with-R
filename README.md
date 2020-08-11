@@ -9,3 +9,9 @@ This project is based off the book written by Michael Lewis. The book argues tha
 
 ## Goal
 Work with data from The Lahman Baseball Database, trying to find replacement players for the ones lost at the start of the off-season - During the 2001–02 offseason, the team lost three key free agents to larger market teams: 2000 AL MVP Jason Giambi to the New York Yankees, outfielder Johnny Damon to the Boston Red Sox, and closer Jason Isringhausen to the St. Louis Cardinals.
+
+## Data Collection
+The data I'm using is from [Sean Lahaman's Website](http://www.seanlahman.com/baseball-archive/statistics/).  batting.csv is a file containing batting data for players in the MLB, and salary.csv is a file containing players' salary data.
+
+
+## Feature Engineering
