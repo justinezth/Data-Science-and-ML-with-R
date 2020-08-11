@@ -44,7 +44,7 @@ Based on that, I filtered out the players with the cutoff of salary>8000000 and 
 ![Possible Picks](https://github.com/justinezth/Moneyball-Data-Analysis/blob/master/pics/possiblepicks.png)
 
 ## Results
-Because the first pick is one of the players we are trying to replace, I pick the 3 players after him.
+Because the first pick is one of the players we are trying to replace, I pick the 3 players after him. I made sure the constraints were met.
 
 The 3 new players: heltoto01, berkmla01, gonzalu01
 
